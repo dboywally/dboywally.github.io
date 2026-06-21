@@ -1,8 +1,8 @@
-\# 📊 **BrightCart Website Traffic Analysis**
+# **BrightCart Website Traffic Analysis**
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -10,7 +10,7 @@ BrightCart faced limited visibility into website performance, making it difficul
 
 
 
-\---
+---
 
 
 
@@ -42,19 +42,19 @@ The project aimed to:
 
 
 
-\* Analyze website traffic timing patterns.
+* Analyze website traffic timing patterns.
 
-\* Evaluate traffic source effectiveness.
+* Evaluate traffic source effectiveness.
 
-\* Identify opportunities to improve conversion rates.
+* Identify opportunities to improve conversion rates.
 
-\* Understand customer behavior across multiple locations.
+* Understand customer behavior across multiple locations.
 
-\* Provide interactive reporting to support decision-making.
+* Provide interactive reporting to support decision-making.
 
 
 
-\---
+---
 
 
 
@@ -76,21 +76,21 @@ The project aimed to:
 
 
 
-\* Total Users
+* Total Users
 
-\* Total Conversions
+* Total Conversions
 
-\* Number of Countries
+* Number of Countries
 
-\* Number of Traffic Sources
-
-
-
-\---
+* Number of Traffic Sources
 
 
 
-**# Data Cleaning Process**
+---
+
+
+
+# Data Cleaning Process**
 
 
 
@@ -102,9 +102,9 @@ Before analysis and visualization, the dataset was cleaned and transformed to en
 
 
 
-\* Reviewed the dataset for missing values and inconsistencies.
+* Reviewed the dataset for missing values and inconsistencies.
 
-\* Verified column formats and data types.
+* Verified column formats and data types.
 
 
 
@@ -112,7 +112,7 @@ Before analysis and visualization, the dataset was cleaned and transformed to en
 
 
 
-\* Removed duplicate records to avoid overcounting users and conversions.
+* Removed duplicate records to avoid overcounting users and conversions.
 
 
 
@@ -124,11 +124,11 @@ Standardized inconsistent values across:
 
 
 
-\* Gender
+* Gender
 
-\* Countries
+* Countries
 
-\* Traffic Source categories
+* Traffic Source categories
 
 
 
@@ -136,7 +136,7 @@ Standardized inconsistent values across:
 
 
 
-\* Identified and addressed incomplete records.
+* Identified and addressed incomplete records.
 
 
 
@@ -144,9 +144,9 @@ Standardized inconsistent values across:
 
 
 
-\* Converted date and time fields into appropriate formats.
+* Converted date and time fields into appropriate formats.
 
-\* Created time-based categories for hourly analysis.
+* Created time-based categories for hourly analysis.
 
 
 
@@ -154,13 +154,13 @@ Standardized inconsistent values across:
 
 
 
-\* Conversion Flag
+* Conversion Flag
 
-\* Hour of Visit
+* Hour of Visit
 
-\* Conversion Metrics
+* Conversion Metrics
 
-\* Traffic Source Categories
+* Traffic Source Categories
 
 
 
@@ -168,25 +168,25 @@ Standardized inconsistent values across:
 
 
 
-\* Verified KPI totals.
+* Verified KPI totals.
 
-\* Cross-checked values with dashboard outputs.
-
-
-
-\### Data Transformation for Reporting
+* Cross-checked values with dashboard outputs.
 
 
 
-\* Structured the data for Power BI reporting and visualization.
+### Data Transformation for Reporting
 
 
 
-\---
+* Structured the data for Power BI reporting and visualization.
 
 
 
-\## Dashboard Features
+---
+
+
+
+## Dashboard Features
 
 
 
@@ -214,7 +214,7 @@ Standardized inconsistent values across:
 
 
 
-\---
+---
 
 
 
@@ -226,7 +226,7 @@ Standardized inconsistent values across:
 
 
 
-\### Evidence
+### Evidence
 
 
 
@@ -234,13 +234,13 @@ The Conversion Rate by Hour analysis revealed conversion peaks during:
 
 
 
-\* 9 AM – 11 AM
+* 9 AM – 11 AM
 
-\* 8 PM – 10 PM
+* 8 PM – 10 PM
 
 
 
-\### Business Impact
+### Business Impact
 
 
 
@@ -620,19 +620,9 @@ Business Recommendations
 
 
 
-\---
 
 
 
-\# Technologies
-
-
-
-!\[Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\\\&logo=microsoft-excel\\\&logoColor=white)
-
-
-
-!\[Power BI](https://img.shields.io/badge/Power\_BI-F2C811?style=for-the-badge\\\&logo=powerbi\\\&logoColor=black)
 
 
 
@@ -640,15 +630,15 @@ Business Recommendations
 
 
 
-\# Author
+# Author
 
 
 
-\## Walter Ikenna Agu
+## Walter Ikenna Agu
 
 
 
-\*\*Data Analyst\*\*
+*\*Data Analyst\*\*
 
 
 
